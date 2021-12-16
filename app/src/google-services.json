@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "636178238712",
+    "project_id": "certamen3-5390e",
+    "storage_bucket": "certamen3-5390e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636178238712:android:dc7d269936b2565086ff0d",
+        "android_client_info": {
+          "package_name": "com.example.certamen_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636178238712-g5rr3k7885kaglvtmam9v27doej6dc62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsRYuR297TmBTSKr0oFvQYi22Zyr8WBbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636178238712-g5rr3k7885kaglvtmam9v27doej6dc62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
